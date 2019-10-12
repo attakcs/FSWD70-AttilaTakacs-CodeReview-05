@@ -1,0 +1,33 @@
+var movies = `[
+  {
+  "title" : "Avengers: Endgame",
+  "description" : "Adrift in space with no food or water, Tony Stark sends a message to Pepper Potts as his oxygen supply starts to dwindle. Meanwhile...",
+  "poster" : "img/avengers.jpg",
+  "rating" : "0"
+},{
+  "title" : "Joker",
+  "description" : "Forever alone in a crowd, failed comedian Arthur Fleck seeks connection as he walks the streets of Gotham City. Arthur wears two masks -- the one he paints for his day job as a clown…",
+  "poster" : "img/joker.jpg",
+  "rating" : "0"
+},{
+  "title" : "The Lion King",
+  "description" : "Simba idolizes his father, King Mufasa, and takes to heart his own royal destiny on the plains of Africa. But not everyone in the kingdom celebrates the new cub's…",
+  "poster" : "img/lionking.jpg",
+  "rating" : "0"
+},{
+  "title" : "John Wick: Chapter 3 – Parabellum",
+  "description" : "After gunning down a member of the High Table -- the shadowy international assassin's guild -- legendary hit man John Wick finds himself stripped of the organization's protective…",
+  "poster" : "img/johnwick.jpg",
+  "rating" : "0"
+},{
+  "title" : "Zombieland: Double Tap",
+  "description" : "Zombie slayers Tallahassee, Columbus, Wichita and Little Rock square off against the newly evolved undead.",
+  "poster" : "img/zombie.jpg",
+  "rating" : "0"
+},{
+  "title" : "El Camino: A Breaking Bad Movie",
+  "description" : "The Breaking Bad movie reunites fans with Jesse Pinkman (Emmy-winner Aaron Paul). In the wake of his dramatic escape from captivity…",
+  "poster" : "img/camino.jpg",
+  "rating" : "0"
+}
+]`

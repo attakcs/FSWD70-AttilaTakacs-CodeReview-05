@@ -1,0 +1,44 @@
+h2 {
+	text-align: center;}
+
+ul {
+	margin: 0;
+	padding: 0;}
+
+li {
+	font-weight: bold;
+	margin: 0;
+	padding: 5px 30px;
+	background-color: grey;
+	list-style: none;}
+
+.container {
+	background-color: black;
+	color: white;}
+
+.smallPosters {
+	width: 200px;
+	height: 300px;}
+
+.card-horizontal {
+	background-color: black;
+	color: green;
+    display: flex;
+    flex: auto;}
+
+.likeSection {
+	position: absolute;
+	bottom: 0;
+	right: 5px;
+	padding: 0;
+	width:  100px;
+	height: 70px;}
+
+.likeSection img {
+	width: 75%;
+	height: 100%;}
+
+.click-value {
+	font-weight: bold;
+	font-size: 25px;
+	color: white;}
